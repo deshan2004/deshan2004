@@ -15,7 +15,7 @@
 - 💡 I love exploring **Web Architecture, Software QA, and AI Real-time Processing**
 - 👨‍💻 Crafting high-quality software with a focus on **SQA and clean UX!**
 - 📍 Based in **Sri Lanka 🇱🇰**
-- 📫 Reach me at: **[මෙතන ඔබේ Email එක දෙන්න]**
+- 📫 Reach me at: **[deshandhakshitha16@gmail.com](mailto:deshandhakshitha16@gmail.com)**
 
 ---
 
@@ -63,10 +63,10 @@
 ### 🌐 Let's Connect
 
 <div align="center">
-  <a href="[මෙතන ඔබේ LinkedIn Link එක දෙන්න]">
+  <a href="https://www.linkedin.com/in/deshan-siriwardhana-591763277/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="[මෙතන ඔබේ Portfolio Link එක දෙන්න]">
+  <a href="https://deshan2004.github.io/Deshan-Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" />
   </a>
 </div>
