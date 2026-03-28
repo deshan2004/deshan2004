@@ -49,9 +49,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deshan2004&show_icons=true&theme=radical" alt="Deshan's GitHub Stats" />
-</p>
+
 
 
 
