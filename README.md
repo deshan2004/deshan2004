@@ -1,63 +1,72 @@
-# 👋 Hi there, I'm Deshan Siriwardhana
+<div align="center">
+  <h1>Hi 👋, I'm Deshan Siriwardhana</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Enthusiast;Software+Engineering+Student" alt="Typing SVG" />
+</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=38B2AC&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Software+Engineering+Undergraduate;QA+Enthusiast;AI+Integration+Specialist" alt="Typing SVG" />
-
-  <p align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=deshan2004.deshan2004" alt="visitors">
-    <img src="https://img.shields.io/github/stars/deshan2004?style=flat-square&color=38B2AC" alt="stars">
-    <img src="https://img.shields.io/github/followers/deshan2004?style=flat-square&color=38B2AC" alt="followers">
-  </p>
+  <img src="https://komarev.com/ghpvc/?username=deshan2004&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
 ---
 
 ### 🚀 About Me
 
-```python
-class SoftwareEngineer:
-    def __init__(self):
-        self.name = "Deshan Siriwardhana"
-        self.role = "Full Stack Developer & AI Enthusiast" #
-        self.education = "BSc (Hons) in Software Engineering (UGC Approved)" #
-        self.location = "Sri Lanka 🇱🇰" #
-        self.skills = ["Web Architecture", "Software QA", "AI Real-time Processing"] #
+- 🎓 I'm currently studying **BSc (Hons) in Software Engineering (UGC Approved)**
+- 💡 I love exploring **Web Architecture, Software QA, and AI Real-time Processing**
+- 👨‍💻 Crafting high-quality software with a focus on **SQA and clean UX!**
+- 📍 Based in **Sri Lanka 🇱🇰**
+- 📫 Reach me at: **[මෙතන ඔබේ Email එක දෙන්න]**
 
-    def say_hi(self):
-        print("Crafting high-quality software with a focus on SQA and clean UX!") #
-🛠️ Tech Stack & Specialized Tools
+---
+
+### 💻 Tech Stack & Tools
+
+**Frontend** <p align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+</p>
+
+**Backend** <p align="left">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+</p>
+
+**Database** <p align="left">
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
 <div align="center">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tailwind_CSS-38B2AC%3Fstyle%3Dfor-the-badge%26logo%3Dtailwind-css%26logoColor%3Dwhite" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deshan2004&show_icons=true&theme=tokyonight&hide_border=true" alt="Deshan's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deshan2004&theme=tokyonight&hide_border=true" alt="Deshan's Streak" width="48%" />
+</div>
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/PHP-777BB4%3Fstyle%3Dfor-the-badge%26logo%3Dphp%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/MySQL-00000F%3Fstyle%3Dfor-the-badge%26logo%3Dmysql%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" />
+<br>
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/TensorFlow-FF6F00%3Fstyle%3Dfor-the-badge%26logo%3Dtensorflow%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/SQA_Testing-FF6B6B%3Fstyle%3Dfor-the-badge%26logo%3Dcheckmarx%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" /> </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deshan2004&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
+</div>
 
-📊 GitHub Activity Snapshot
-<p align="center">
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Ddeshan2004%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue" />
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Ddeshan2004%26layout%3Dcompact%26theme%3Dtokyonight" />
-</p>
+---
 
-🌟 Featured Projects
-EduConnect LMS: A multi-panel Learning Management System featuring secure authentication for Admin, Staff, and Users.
+### 🌐 Let's Connect
 
-Neth-Sawan: An AI-driven digital assistant for real-time navigation and communication using object recognition.
-
-Employee Management System: A full-stack solution with modules for registration, project assignment, and work logs.
-
-CineMate: A dynamic movie management system powered by JavaScript and DOM manipulation.
-
-📫 Connect With Me
-<p align="left">
-<a href="https://linkedin.com/in/deshan-siriwardhana-591763277" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" />
-</a>
-<a href="mailto:deshandhakshitha16@gmail.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" />
-</a>
-</p>
-
-<p align="center"><i>"Building the future, one commit at a time."</i></p>
+<div align="center">
+  <a href="[මෙතන ඔබේ LinkedIn Link එක දෙන්න]">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="[මෙතන ඔබේ Portfolio Link එක දෙන්න]">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" />
+  </a>
+</div>
