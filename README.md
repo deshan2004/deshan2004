@@ -53,9 +53,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=deshan2004&show_icons=true&theme=radical" alt="Deshan's GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deshan2004&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deshan2004&theme=radical" alt="Deshan's Streak" />
