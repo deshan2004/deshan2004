@@ -77,9 +77,6 @@ A dynamic movie management web application. Transitioned from a static HTML layo
 
 <div align="center">
 
-[![Deshan's GitHub Stats](https://github-readme-stats.vercel.app/api?user=deshan2004&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=777777&cache_seconds=86400&v=1)](https://github.com/deshan2004)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?user=deshan2004&layout=compact&theme=transparent&hide_border=true&title_color=2196F3&text_color=777777&cache_seconds=86400&v=1)](https://github.com/deshan2004)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=deshan2004&theme=transparent&hide_border=true&title_color=2196F3&text_color=777777&icon_color=2196F3)](https://github.com/deshan2004)
 
