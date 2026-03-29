@@ -65,6 +65,8 @@ A dynamic movie management web application. Transitioned from a static HTML layo
 **Database Management** <br>
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
 
 **Tools & Practices** <br>
 <img src="https://img.shields.io/badge/Software_QA-4B32C3?style=flat-square&logo=testinglibrary&logoColor=white" />
