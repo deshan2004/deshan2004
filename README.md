@@ -36,6 +36,7 @@ Recruiters love to see what you've built! Here are some of my proudest works:
 
 #### 👁️ Neth-Sawan (AI Digital Assistant)
 A digital assistant platform designed to provide real-time assistance via AI for navigation and communication. Integrates advanced object recognition and real-time speech processing technologies.
+https://deshan2004.github.io/Neth-Sawan/
 
 #### 📚 EduConnect (Learning Management System)
 A comprehensive, multi-panel LMS built with **PHP & MySQL**. It features highly secure authentication systems tailored for different user roles including Admin, Staff, and regular Users.
