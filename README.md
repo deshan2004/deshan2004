@@ -43,6 +43,7 @@ A comprehensive, multi-panel LMS built with **PHP & MySQL**. It features highly 
 
 #### 🎬 CineMate (Movie Management System)
 A dynamic movie management web application. Transitioned from a static HTML layout to a fully dynamic system utilizing JavaScript data arrays, helper functions, and advanced DOM manipulation.
+https://deshan2004.github.io/CineMate/
 
 *(Feel free to explore my repositories below to see the source code!)*
 
