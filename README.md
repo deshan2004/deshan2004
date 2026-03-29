@@ -45,6 +45,10 @@ A comprehensive, multi-panel LMS built with **PHP & MySQL**. It features highly 
 A dynamic movie management web application. Transitioned from a static HTML layout to a fully dynamic system utilizing JavaScript data arrays, helper functions, and advanced DOM manipulation.
 https://deshan2004.github.io/CineMate/
 
+#### 🐾 TailWatch (Animal Care & Rabies Prevention)
+A specialized platform for animal management and health monitoring. It focuses on the safety of pets and the community by integrating dedicated modules for Dogs and Rabies Vaccination Tracking.
+https://deshan2004.github.io/TailWatch/
+
 *(Feel free to explore my repositories below to see the source code!)*
 
 ---
