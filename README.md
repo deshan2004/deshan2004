@@ -49,6 +49,9 @@ https://deshan2004.github.io/CineMate/
 A specialized platform for animal management and health monitoring. It focuses on the safety of pets and the community by integrating dedicated modules for Dogs and Rabies Vaccination Tracking.
 https://deshan2004.github.io/TailWatch/
 
+#### 📊 Employee Project Management System (EPMS)
+An enterprise-grade management tool designed to streamline project workflows and employee productivity. This system focuses on structured team management, real-time work logging, and rigorous Manual Unit Testing to ensure high software quality and reliability.
+
 *(Feel free to explore my repositories below to see the source code!)*
 
 ---
