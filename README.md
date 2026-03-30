@@ -40,6 +40,7 @@ https://deshan2004.github.io/Neth-Sawan/
 
 #### 📚 EduConnect (Learning Management System)
 A comprehensive, multi-panel LMS built with **PHP & MySQL**. It features highly secure authentication systems tailored for different user roles including Admin, Staff, and regular Users.
+https://edu-connect-rust-eta.vercel.app/
 
 #### 🎬 CineMate (Movie Management System)
 A dynamic movie management web application. Transitioned from a static HTML layout to a fully dynamic system utilizing JavaScript data arrays, helper functions, and advanced DOM manipulation.
