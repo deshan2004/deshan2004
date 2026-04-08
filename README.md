@@ -17,12 +17,13 @@
   <a href="https://deshan2004.github.io/Deshan-Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" />
   </a>
-  ## 📄 Download My Resume
+ 
+</div>
+###  📄 Download My Resume
 
 Click the button below to download my latest CV in PDF format:
 
 [![Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./CV.pdf)
-</div>
 
 ---
 
