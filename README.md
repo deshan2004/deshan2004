@@ -19,11 +19,9 @@
   </a>
  
 </div>
-###  📄 Download My Resume
 
-Click the button below to download my latest CV in PDF format:
 
-[![Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./CV.pdf)
+  [![Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./CV.pdf)
 
 ---
 
