@@ -17,11 +17,17 @@
   <a href="https://deshan2004.github.io/Deshan-Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" />
   </a>
- 
+  <a href="./CV.pdf">
+    <img src="https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" />
+  </a>
 </div>
 
+<br/>
 
-  [![Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./CV.pdf)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deshan2004&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&text_color=777777&icon_color=2196F3" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deshan2004&layout=compact&theme=transparent&hide_border=true&title_color=2196F3&text_color=777777" height="170" />
+</div>
 
 ---
 
@@ -36,28 +42,21 @@
 
 ### 💼 Featured Projects
 
-Recruiters love to see what you've built! Here are some of my proudest works:
-
 #### 👁️ Neth-Sawan (AI Digital Assistant)
 A digital assistant platform designed to provide real-time assistance via AI for navigation and communication. Integrates advanced object recognition and real-time speech processing technologies.
-https://deshan2004.github.io/Neth-Sawan/
+[View Project](https://deshan2004.github.io/Neth-Sawan/)
 
 #### 📚 EduConnect (Learning Management System)
 A comprehensive, multi-panel LMS built with **PHP & MySQL**. It features highly secure authentication systems tailored for different user roles including Admin, Staff, and regular Users.
-https://edu-connect-rust-eta.vercel.app/
+[View Project](https://edu-connect-rust-eta.vercel.app/)
 
 #### 🎬 CineMate (Movie Management System)
-A dynamic movie management web application. Transitioned from a static HTML layout to a fully dynamic system utilizing JavaScript data arrays, helper functions, and advanced DOM manipulation.
-https://deshan2004.github.io/CineMate/
+A dynamic movie management web application. Transitioned from a static HTML layout to a fully dynamic system utilizing JavaScript data arrays and advanced DOM manipulation.
+[View Project](https://deshan2004.github.io/CineMate/)
 
 #### 🐾 TailWatch (Animal Care & Rabies Prevention)
 A specialized platform for animal management and health monitoring. It focuses on the safety of pets and the community by integrating dedicated modules for Dogs and Rabies Vaccination Tracking.
-https://deshan2004.github.io/TailWatch/
-
-#### 📊 Employee Project Management System (EPMS)
-An enterprise-grade management tool designed to streamline project workflows and employee productivity. This system focuses on structured team management, real-time work logging, and rigorous Manual Unit Testing to ensure high software quality and reliability.
-
-*(Feel free to explore my repositories below to see the source code!)*
+[View Project](https://deshan2004.github.io/TailWatch/)
 
 ---
 
@@ -79,22 +78,17 @@ An enterprise-grade management tool designed to streamline project workflows and
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white" />
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
 
 **Tools & Practices** <br>
 <img src="https://img.shields.io/badge/Software_QA-4B32C3?style=flat-square&logo=testinglibrary&logoColor=white" />
+<img src="https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
 
 ---
 
-
 ### 📊 GitHub Activity
 
 <div align="center">
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=deshan2004&theme=transparent&hide_border=true&title_color=2196F3&text_color=777777&icon_color=2196F3)](https://github.com/deshan2004)
-
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=deshan2004&theme=transparent&hide_border=true&title_color=2196F3&text_color=777777&icon_color=2196F3)](https://github.com/deshan2004)
 </div>
-
