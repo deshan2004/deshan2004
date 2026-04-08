@@ -24,10 +24,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deshan2004&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&text_color=777777&icon_color=2196F3" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deshan2004&layout=compact&theme=transparent&hide_border=true&title_color=2196F3&text_color=777777" height="170" />
-</div>
 
 ---
 
@@ -57,6 +53,11 @@ A dynamic movie management web application. Transitioned from a static HTML layo
 #### 🐾 TailWatch (Animal Care & Rabies Prevention)
 A specialized platform for animal management and health monitoring. It focuses on the safety of pets and the community by integrating dedicated modules for Dogs and Rabies Vaccination Tracking.
 [View Project](https://deshan2004.github.io/TailWatch/)
+
+#### 📊 Employee Project Management System (EPMS)
+An enterprise-grade management tool designed to streamline project workflows and employee productivity. This system focuses on structured team management, real-time work logging, and rigorous Manual Unit Testing to ensure high software quality and reliability.
+
+*(Feel free to explore my repositories below to see the source code!)*
 
 ---
 
@@ -90,5 +91,8 @@ A specialized platform for animal management and health monitoring. It focuses o
 ### 📊 GitHub Activity
 
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=deshan2004&theme=transparent&hide_border=true&title_color=2196F3&text_color=777777&icon_color=2196F3)](https://github.com/deshan2004)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=deshan2004&theme=transparent&hide_border=true&title_color=2196F3&text_color=777777&icon_color=2196F3)](https://github.com/deshan2004)
+
 </div>
