@@ -35,6 +35,8 @@
 - 📍 **Location:** Sri Lanka 🇱🇰
 
 ---
+## 🕹️ My Contribution Snake
+![Snake animation](https://github.com/deshan2004/deshan2004/blob/output/github-snake.svg)
 
 ### 💼 Featured Projects
 
