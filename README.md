@@ -96,5 +96,13 @@ An enterprise-grade management tool designed to streamline project workflows and
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=deshan2004&theme=transparent&hide_border=true&title_color=2196F3&text_color=777777&icon_color=2196F3)](https://github.com/deshan2004)
+### 🕹️ Play My Latest Game: Sky Drifter
 
+<div align="center">
+  <a href="https://deshan2004.github.io/Sky-Drifter/" target="_blank">
+    <img src="https://raw.githubusercontent.com/deshan2004/Sky-Drifter/main/assets/game-preview.gif" width="600" alt="Play Sky Drifter">
+    <br/>
+    <img src="https://img.shields.io/badge/PLAY_NOW-Click_Here-success?style=for-the-badge&logo=googleplay&logoColor=white" />
+  </a>
+</div>
 </div>
