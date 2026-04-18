@@ -51,8 +51,8 @@
       <p align="center"><b>Status:</b> Developing Alert Logic</p>
       <p align="center">Smart inventory tracking system using <b>React.js</b> & <b>Firebase</b> to monitor expiry dates with automated alerts.</p>
       <p align="center">
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Code-Repo-333?style=for-the-badge&logo=github&logoColor=white" />
+       <a href="https://shelf-life-ai-46q7.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-2196F3?style=for-the-badge&logo=vercel&logoColor=white" />
         </a>
       </p>
     </td>
