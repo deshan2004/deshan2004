@@ -33,17 +33,43 @@
 
 ### 💼 Featured Projects
 
+🏗️ In Development (Active Research)
+
 <table>
+<td width="50%">
+<h3 align="center">👁️ Neth-Sawan (AI Assistant)</h3>
+<p align="center"><b>Status:</b> Refining AI Models</p>
+<p align="center">Real-time accessibility platform using object recognition and speech processing for sensory assistance.</p>
+<p align="center">
+<a href="https://deshan2004.github.io/Neth-Sawan/" target="_blank">
+<img src="https://img.shields.io/badge/Live_Demo-2196F3?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+</p>
+</td>
+</tr>
   <tr>
     <td width="50%">
-      <h3 align="center">👁️ Neth-Sawan (AI Assistant)</h3>
-      <p align="center">Real-time AI for navigation & communication using object recognition & speech processing.</p>
+      <h3 align="center">🎬 CineMate (Movie DB)</h3>
+      <p align="center">Dynamic movie app with JS array manipulation and advanced DOM rendering.</p>
       <p align="center">
-        <a href="https://deshan2004.github.io/Neth-Sawan/" target="_blank">
+        <a href="https://deshan2004.github.io/CineMate/" target="_blank">
           <img src="https://img.shields.io/badge/Live_Demo-2196F3?style=for-the-badge&logo=vercel&logoColor=white" />
         </a>
       </p>
     </td>
+    <tr>
+<td width="50%">
+<h3 align="center">🍎 ShelfLife AI</h3>
+<p align="center"><b>Status:</b> Developing Alert Logic</p>
+<p align="center">Smart inventory tracking system using <b>React.js</b> & <b>Firebase</b> to monitor expiry dates with automated user alerts.</p>
+<p align="center">
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/Code-Repo-333?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+</td>
+
+    
     <td width="50%">
       <h3 align="center">📚 EduConnect (LMS)</h3>
       <p align="center">Multi-panel LMS with highly secure role-based auth (Admin, Staff, User). Built with PHP & MySQL.</p>
