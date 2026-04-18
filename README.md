@@ -33,49 +33,26 @@
 
 ### 💼 Featured Projects
 
-🏗️ In Development (Active Research)
-
+#### 🏗️ In Development (Active Research)
 <table>
-<td width="50%">
-<h3 align="center">👁️ Neth-Sawan (AI Assistant)</h3>
-<p align="center"><b>Status:</b> Refining AI Models</p>
-<p align="center">Real-time accessibility platform using object recognition and speech processing for sensory assistance.</p>
-<p align="center">
-<a href="https://deshan2004.github.io/Neth-Sawan/" target="_blank">
-<img src="https://img.shields.io/badge/Live_Demo-2196F3?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-</p>
-</td>
-</tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🎬 CineMate (Movie DB)</h3>
-      <p align="center">Dynamic movie app with JS array manipulation and advanced DOM rendering.</p>
+      <h3 align="center">👁️ Neth-Sawan (AI Assistant)</h3>
+      <p align="center"><b>Status:</b> Refining AI Models</p>
+      <p align="center">Real-time accessibility platform using object recognition and speech processing for sensory assistance.</p>
       <p align="center">
-        <a href="https://deshan2004.github.io/CineMate/" target="_blank">
+        <a href="https://deshan2004.github.io/Neth-Sawan/" target="_blank">
           <img src="https://img.shields.io/badge/Live_Demo-2196F3?style=for-the-badge&logo=vercel&logoColor=white" />
         </a>
       </p>
     </td>
-    <tr>
-<td width="50%">
-<h3 align="center">🍎 ShelfLife AI</h3>
-<p align="center"><b>Status:</b> Developing Alert Logic</p>
-<p align="center">Smart inventory tracking system using <b>React.js</b> & <b>Firebase</b> to monitor expiry dates with automated user alerts.</p>
-<p align="center">
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/Code-Repo-333?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</p>
-</td>
-
-    
     <td width="50%">
-      <h3 align="center">📚 EduConnect (LMS)</h3>
-      <p align="center">Multi-panel LMS with highly secure role-based auth (Admin, Staff, User). Built with PHP & MySQL.</p>
+      <h3 align="center">🍎 ShelfLife AI</h3>
+      <p align="center"><b>Status:</b> Developing Alert Logic</p>
+      <p align="center">Smart inventory tracking system using <b>React.js</b> & <b>Firebase</b> to monitor expiry dates with automated alerts.</p>
       <p align="center">
-        <a href="https://edu-connect-rust-eta.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-2196F3?style=for-the-badge&logo=vercel&logoColor=white" />
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/Code-Repo-333?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
@@ -83,9 +60,27 @@
   <tr>
     <td width="50%">
       <h3 align="center">🎬 CineMate (Movie DB)</h3>
+      <p align="center"><b>Status:</b> Feature Expansion</p>
       <p align="center">Dynamic movie app with JS array manipulation and advanced DOM rendering.</p>
       <p align="center">
         <a href="https://deshan2004.github.io/CineMate/" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-2196F3?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      </td>
+  </tr>
+</table>
+
+#### ✅ Completed Projects
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📚 EduConnect (LMS)</h3>
+      <p align="center">Multi-panel LMS with highly secure role-based auth (Admin, Staff, User). Built with PHP & MySQL.</p>
+      <p align="center">
+        <a href="https://edu-connect-rust-eta.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/Live_Demo-2196F3?style=for-the-badge&logo=vercel&logoColor=white" />
         </a>
       </p>
@@ -103,7 +98,7 @@
   <tr>
     <td width="50%">
       <h3 align="center">📊 EPMS (Enterprise)</h3>
-      <p align="center">Project workflow & productivity tool with real-time logging & rigorous manual testing.</p>
+      <p align="center">Project workflow tool with real-time logging & rigorous manual/automated testing.</p>
       <p align="center">
         <a href="#" target="_blank">
           <img src="https://img.shields.io/badge/Code-Repo-333?style=for-the-badge&logo=github&logoColor=white" />
@@ -111,7 +106,13 @@
       </p>
     </td>
     <td width="50%">
-      <!-- Empty for balance or you can add another project -->
+      <h3 align="center">🎮 Sky Drifter</h3>
+      <p align="center">Interactive web-based game featuring physics-based movement and dynamic obstacle generation.</p>
+      <p align="center">
+        <a href="https://deshan2004.github.io/Sky-Drifter/" target="_blank">
+          <img src="https://img.shields.io/badge/Play_Now-success?style=for-the-badge&logo=googleplay&logoColor=white" />
+        </a>
+      </p>
     </td>
   </tr>
 </table>
@@ -181,24 +182,10 @@
 
 ---
 
-### 🎮 Play My Latest Game: Sky Drifter
-
-<div align="center">
-  <a href="https://deshan2004.github.io/Sky-Drifter/" target="_blank">
-    <img src="https://raw.githubusercontent.com/deshan2004/Sky-Drifter/main/assets/game-preview.gif" width="600" alt="Play Sky Drifter">
-    <br/>
-    <img src="https://img.shields.io/badge/🎮_PLAY_SKY_DRIFTER_NOW-Click_Here-success?style=for-the-badge&logo=googleplay&logoColor=white" />
-  </a>
-</div>
-
-<br/>
-
----
-
 ### 📈 Weekly Development Breakdown
 
 ```text
-TypeScript   4 hrs 20 mins  ████████████░░░░░░░░░░░░░   45.2%
-JavaScript   2 hrs 45 mins  ████████░░░░░░░░░░░░░░░░░   28.6%
-HTML/CSS     1 hr  55 mins  ██████░░░░░░░░░░░░░░░░░░░   20.0%
-Python       0 hr  35 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   6.2%
+TypeScript    4 hrs 20 mins  ████████████░░░░░░░░░░░░░   45.2%
+JavaScript    2 hrs 45 mins  ████████░░░░░░░░░░░░░░░░░   28.6%
+HTML/CSS      1 hr  55 mins  ██████░░░░░░░░░░░░░░░░░░░   20.0%
+Python        0 hr  35 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   6.2%
