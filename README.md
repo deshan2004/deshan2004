@@ -41,7 +41,7 @@
       <p align="center"><b>Status:</b> Refining AI Models</p>
       <p align="center">Real-time accessibility platform using object recognition and speech processing for sensory assistance.</p>
       <p align="center">
-        <a href="https://deshan2004.github.io/Neth-Sawan/" target="_blank">
+        <a href="https://neth-sawan.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/Live_Demo-2196F3?style=for-the-badge&logo=vercel&logoColor=white" />
         </a>
       </p>
