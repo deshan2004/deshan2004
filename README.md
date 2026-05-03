@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/deshan-siriwardhana-591763277/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://deshan2004.github.io/Deshan-Portfolio/">
+  <a href="https://deshansiriwardhana.me/">
     <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" />
   </a>
   <a href="./CV.pdf">
