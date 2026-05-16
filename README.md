@@ -34,9 +34,9 @@
 ### 💼 Featured Projects
 
 #### 🏗️ In Development (Active Research)
-<table>
+<table width="100%">
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">👁️ Neth-Sawan (AI Assistant)</h3>
       <p align="center"><b>Status:</b> Refining AI Models</p>
       <p align="center">Real-time accessibility platform using object recognition and speech processing for sensory assistance.</p>
@@ -46,7 +46,7 @@
         </a>
       </p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">🍎 ShelfLife AI</h3>
       <p align="center"><b>Status:</b> Developing Alert Logic</p>
       <p align="center">Smart inventory tracking system using <b>React.js</b> & <b>Firebase</b> to monitor expiry dates with automated alerts.</p>
@@ -58,7 +58,7 @@
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">🎬 CineMate (Movie DB)</h3>
       <p align="center"><b>Status:</b> Feature Expansion</p>
       <p align="center">Dynamic movie app with JS array manipulation and advanced DOM rendering.</p>
@@ -68,26 +68,31 @@
         </a>
       </p>
     </td>
-    <td width="50%">
-    </td>
+    <td width="50%" valign="top">
+      </td>
   </tr>
-    <td width="50%">
-      <h3 align="center">🔮 Guessing Game Arena</h3>
-      <p align="center"><b>Status:</b> Live & Fully Operational</p>
-      <p align="center">An elite, ultra-modern gaming terminal featuring precision code-breaking, word deduction, and scalar matrix algorithms. Powered by Python Streamlit and connected to <b>MongoDB Atlas</b> cloud clustering for permanent data retention.</p>
-      <p align="center">
-        <a href="https://ultimate-guessing-game-python-ufca4jfzddoh3ovzjwg9dm.streamlit.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Play_Now-success?style=for-the-badge&logo=googleplay&logoColor=white" />
-        </a>
-      </p>
-    </td>
 </table>
 
 #### ✅ Completed Projects
-<table>
+<table width="100%">
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
+      <h3 align="center">🔮 Guessing Game Arena</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Deployment-In_Going-brightgreen?style=flat-square&logo=github" alt="In Going Status">
+      </p>
+      <p align="center">Elite matrix gaming environment featuring multi-layered cryptographic deduction, algorithmic lexicon matching, and score tracking with <b>MongoDB Atlas</b> backend pipelines.</p>
+      <p align="center">
+        <a href="https://ultimate-guessing-game-python-ufca4jfzddoh3ovzjwg9dm.streamlit.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Play_Now-success?style=for-the-badge&logo=streamlit&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">📚 EduConnect (LMS)</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Completed-blue?style=flat-square" alt="Status Completed">
+      </p>
       <p align="center">Multi-panel LMS with highly secure role-based auth (Admin, Staff, User). Built with PHP & MySQL.</p>
       <p align="center">
         <a href="https://edu-connect-rust-eta.vercel.app/" target="_blank">
@@ -97,8 +102,11 @@
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">🐾 TailWatch (Animal Care)</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Completed-blue?style=flat-square" alt="Status Completed">
+      </p>
       <p align="center">Animal management & rabies prevention platform with dedicated tracking modules.</p>
       <p align="center">
         <a href="https://deshan2004.github.io/TailWatch/" target="_blank">
@@ -106,9 +114,12 @@
         </a>
       </p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">📊 EPMS (Enterprise)</h3>
-      <p align="center">Project workflow tool with real-time logging & rigorous manual/automated testing.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Completed-blue?style=flat-square" alt="Status Completed">
+      </p>
+      <p align="center">Project workflow tool with real-time logging & rigorous manual/automated testing environments.</p>
       <p align="center">
         <a href="#" target="_blank">
           <img src="https://img.shields.io/badge/Code-Repo-333?style=for-the-badge&logo=github&logoColor=white" />
@@ -117,8 +128,11 @@
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">🎮 Sky Drifter</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Completed-blue?style=flat-square" alt="Status Completed">
+      </p>
       <p align="center">Interactive web-based game featuring physics-based movement and dynamic obstacle generation.</p>
       <p align="center">
         <a href="https://deshan2004.github.io/Sky-Drifter/" target="_blank">
@@ -126,8 +140,8 @@
         </a>
       </p>
     </td>
-    <td width="50%">
-    </td>
+    <td width="50%" valign="top">
+      </td>
   </tr>
 </table>
 
@@ -158,7 +172,7 @@
 #### 🗄️ Databases
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&loveColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
