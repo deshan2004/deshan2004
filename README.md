@@ -69,13 +69,23 @@
       </p>
     </td>
     <td width="50%">
-      </td>
+    </td>
   </tr>
 </table>
 
 #### ✅ Completed Projects
 <table>
   <tr>
+    <td width="50%">
+      <h3 align="center">🔮 Guessing Game Arena</h3>
+      <p align="center"><b>Status:</b> Live & Fully Operational</p>
+      <p align="center">An elite, ultra-modern gaming terminal featuring precision code-breaking, word deduction, and scalar matrix algorithms. Powered by Python Streamlit and connected to <b>MongoDB Atlas</b> cloud clustering for permanent data retention.</p>
+      <p align="center">
+        <a href="https://your-web-link.streamlit.app" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-Success-success?style=for-the-badge&logo=streamlit&logoColor=white" />
+        </a>
+      </p>
+    </td>
     <td width="50%">
       <h3 align="center">📚 EduConnect (LMS)</h3>
       <p align="center">Multi-panel LMS with highly secure role-based auth (Admin, Staff, User). Built with PHP & MySQL.</p>
@@ -85,6 +95,8 @@
         </a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">🐾 TailWatch (Animal Care)</h3>
       <p align="center">Animal management & rabies prevention platform with dedicated tracking modules.</p>
@@ -94,8 +106,6 @@
         </a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center">📊 EPMS (Enterprise)</h3>
       <p align="center">Project workflow tool with real-time logging & rigorous manual/automated testing.</p>
@@ -105,6 +115,8 @@
         </a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">🎮 Sky Drifter</h3>
       <p align="center">Interactive web-based game featuring physics-based movement and dynamic obstacle generation.</p>
@@ -113,6 +125,8 @@
           <img src="https://img.shields.io/badge/Play_Now-success?style=for-the-badge&logo=googleplay&logoColor=white" />
         </a>
       </p>
+    </td>
+    <td width="50%">
     </td>
   </tr>
 </table>
@@ -144,7 +158,7 @@
 #### 🗄️ Databases
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&loveColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
