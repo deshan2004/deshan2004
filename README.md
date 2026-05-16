@@ -71,21 +71,21 @@
     <td width="50%">
     </td>
   </tr>
-</table>
-
-#### ✅ Completed Projects
-<table>
-  <tr>
     <td width="50%">
       <h3 align="center">🔮 Guessing Game Arena</h3>
       <p align="center"><b>Status:</b> Live & Fully Operational</p>
       <p align="center">An elite, ultra-modern gaming terminal featuring precision code-breaking, word deduction, and scalar matrix algorithms. Powered by Python Streamlit and connected to <b>MongoDB Atlas</b> cloud clustering for permanent data retention.</p>
       <p align="center">
-        <a href="https://your-web-link.streamlit.app" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-Success-success?style=for-the-badge&logo=streamlit&logoColor=white" />
+        <a href="https://ultimate-guessing-game-python-ufca4jfzddoh3ovzjwg9dm.streamlit.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Play_Now-success?style=for-the-badge&logo=googleplay&logoColor=white" />
         </a>
       </p>
     </td>
+</table>
+
+#### ✅ Completed Projects
+<table>
+  <tr>
     <td width="50%">
       <h3 align="center">📚 EduConnect (LMS)</h3>
       <p align="center">Multi-panel LMS with highly secure role-based auth (Admin, Staff, User). Built with PHP & MySQL.</p>
