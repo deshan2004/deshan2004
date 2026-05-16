@@ -37,46 +37,6 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">👁️ Neth-Sawan (AI Assistant)</h3>
-      <p align="center"><b>Status:</b> Refining AI Models</p>
-      <p align="center">Real-time accessibility platform using object recognition and speech processing for sensory assistance.</p>
-      <p align="center">
-        <a href="https://neth-sawan.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-2196F3?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🍎 ShelfLife AI</h3>
-      <p align="center"><b>Status:</b> Developing Alert Logic</p>
-      <p align="center">Smart inventory tracking system using <b>React.js</b> & <b>Firebase</b> to monitor expiry dates with automated alerts.</p>
-      <p align="center">
-       <a href="https://shelf-life-ai-46q7.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-2196F3?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🎬 CineMate (Movie DB)</h3>
-      <p align="center"><b>Status:</b> Feature Expansion</p>
-      <p align="center">Dynamic movie app with JS array manipulation and advanced DOM rendering.</p>
-      <p align="center">
-        <a href="https://deshan2004.github.io/CineMate/" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-2196F3?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      </td>
-  </tr>
-</table>
-
-#### ✅ Completed Projects
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
       <h3 align="center">🔮 Guessing Game Arena</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Deployment-In_Going-brightgreen?style=flat-square&logo=github" alt="In Going Status">
@@ -89,10 +49,46 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📚 EduConnect (LMS)</h3>
+      <h3 align="center">👁️ Neth-Sawan (AI Assistant)</h3>
+      <p align="center"><b>Status:</b> Refining AI Models</p>
+      <p align="center">Real-time accessibility platform using object recognition and speech processing for sensory assistance.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Status-Completed-blue?style=flat-square" alt="Status Completed">
+        <a href="https://neth-sawan.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-2196F3?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
       </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🍎 ShelfLife AI</h3>
+      <p align="center"><b>Status:</b> Developing Alert Logic</p>
+      <p align="center">Smart inventory tracking system using <b>React.js</b> & <b>Firebase</b> to monitor expiry dates with automated alerts.</p>
+      <p align="center">
+       <a href="https://shelf-life-ai-46q7.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-2196F3?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎬 CineMate (Movie DB)</h3>
+      <p align="center"><b>Status:</b> Feature Expansion</p>
+      <p align="center">Dynamic movie app with JS array manipulation and advanced DOM rendering.</p>
+      <p align="center">
+        <a href="https://deshan2004.github.io/CineMate/" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-2196F3?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+#### ✅ Completed Projects
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📚 EduConnect (LMS)</h3>
+      <p align="center"><b>Status:</b> Completed</p>
       <p align="center">Multi-panel LMS with highly secure role-based auth (Admin, Staff, User). Built with PHP & MySQL.</p>
       <p align="center">
         <a href="https://edu-connect-rust-eta.vercel.app/" target="_blank">
@@ -100,13 +96,9 @@
         </a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🐾 TailWatch (Animal Care)</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Completed-blue?style=flat-square" alt="Status Completed">
-      </p>
+      <p align="center"><b>Status:</b> Completed</p>
       <p align="center">Animal management & rabies prevention platform with dedicated tracking modules.</p>
       <p align="center">
         <a href="https://deshan2004.github.io/TailWatch/" target="_blank">
@@ -114,11 +106,11 @@
         </a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">📊 EPMS (Enterprise)</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Completed-blue?style=flat-square" alt="Status Completed">
-      </p>
+      <p align="center"><b>Status:</b> Production Ready</p>
       <p align="center">Project workflow tool with real-time logging & rigorous manual/automated testing environments.</p>
       <p align="center">
         <a href="#" target="_blank">
@@ -126,13 +118,9 @@
         </a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🎮 Sky Drifter</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Completed-blue?style=flat-square" alt="Status Completed">
-      </p>
+      <p align="center"><b>Status:</b> Completed</p>
       <p align="center">Interactive web-based game featuring physics-based movement and dynamic obstacle generation.</p>
       <p align="center">
         <a href="https://deshan2004.github.io/Sky-Drifter/" target="_blank">
@@ -140,8 +128,6 @@
         </a>
       </p>
     </td>
-    <td width="50%" valign="top">
-      </td>
   </tr>
 </table>
 
