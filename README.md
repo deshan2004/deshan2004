@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Deshan Siriwardhana</h1>
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=.NET+%26+Full+Stack+Developer;AI+Enthusiast;Software+Engineering+Student" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=.NET+Developer;Full+Stack+Developer;AI+Enthusiast;Software+Engineering+Student" alt="Typing SVG" />
   
   <br/>
   
