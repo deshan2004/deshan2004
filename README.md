@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Deshan Siriwardhana</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Enthusiast;Software+Engineering+Student" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=.NET+Developer;Full+Stack+Developer;AI+Enthusiast;Software+Engineering+Student" alt="Typing SVG" />
   
   <br/>
   
@@ -34,9 +34,21 @@
 ### 💼 Featured Projects
 
 #### 🏗️ In Development (Active Research)
-<table>
+<table width="100%">
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
+      <h3 align="center">🔮 Guessing Game Arena</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Deployment-In_Going-brightgreen?style=flat-square&logo=github" alt="In Going Status">
+      </p>
+      <p align="center">Elite matrix gaming environment featuring multi-layered cryptographic deduction, algorithmic lexicon matching, and score tracking with <b>MongoDB Atlas</b> backend pipelines.</p>
+      <p align="center">
+        <a href="https://ultimate-guessing-game-python-ufca4jfzddoh3ovzjwg9dm.streamlit.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Play_Now-success?style=for-the-badge&logo=streamlit&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">👁️ Neth-Sawan (AI Assistant)</h3>
       <p align="center"><b>Status:</b> Refining AI Models</p>
       <p align="center">Real-time accessibility platform using object recognition and speech processing for sensory assistance.</p>
@@ -46,7 +58,9 @@
         </a>
       </p>
     </td>
-    <td width="50%">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="center">🍎 ShelfLife AI</h3>
       <p align="center"><b>Status:</b> Developing Alert Logic</p>
       <p align="center">Smart inventory tracking system using <b>React.js</b> & <b>Firebase</b> to monitor expiry dates with automated alerts.</p>
@@ -56,9 +70,7 @@
         </a>
       </p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">🎬 CineMate (Movie DB)</h3>
       <p align="center"><b>Status:</b> Feature Expansion</p>
       <p align="center">Dynamic movie app with JS array manipulation and advanced DOM rendering.</p>
@@ -68,16 +80,15 @@
         </a>
       </p>
     </td>
-    <td width="50%">
-      </td>
   </tr>
 </table>
 
 #### ✅ Completed Projects
-<table>
+<table width="100%">
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">📚 EduConnect (LMS)</h3>
+      <p align="center"><b>Status:</b> Completed</p>
       <p align="center">Multi-panel LMS with highly secure role-based auth (Admin, Staff, User). Built with PHP & MySQL.</p>
       <p align="center">
         <a href="https://edu-connect-rust-eta.vercel.app/" target="_blank">
@@ -85,8 +96,9 @@
         </a>
       </p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">🐾 TailWatch (Animal Care)</h3>
+      <p align="center"><b>Status:</b> Completed</p>
       <p align="center">Animal management & rabies prevention platform with dedicated tracking modules.</p>
       <p align="center">
         <a href="https://deshan2004.github.io/TailWatch/" target="_blank">
@@ -96,17 +108,19 @@
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">📊 EPMS (Enterprise)</h3>
-      <p align="center">Project workflow tool with real-time logging & rigorous manual/automated testing.</p>
+      <p align="center"><b>Status:</b> Production Ready</p>
+      <p align="center">Project workflow tool with real-time logging & rigorous manual/automated testing environments.</p>
       <p align="center">
         <a href="#" target="_blank">
           <img src="https://img.shields.io/badge/Code-Repo-333?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">🎮 Sky Drifter</h3>
+      <p align="center"><b>Status:</b> Completed</p>
       <p align="center">Interactive web-based game featuring physics-based movement and dynamic obstacle generation.</p>
       <p align="center">
         <a href="https://deshan2004.github.io/Sky-Drifter/" target="_blank">
@@ -125,20 +139,29 @@
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
 #### ⚙️ Backend Development
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
 </p>
 
 #### 🗄️ Databases
