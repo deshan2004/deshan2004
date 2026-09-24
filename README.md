@@ -149,6 +149,7 @@ currently:  Building Neth-Sawan & ShelfLife AI
 
 <br/>
 
+<<<<<<< HEAD
 <!-- ===================== SNAKE ===================== -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=6,11,20&height=60&section=header&text=Snake%20Zone%20%F0%9F%90%8D&fontSize=26&fontColor=ffffff" width="60%" />
@@ -167,6 +168,8 @@ currently:  Building Neth-Sawan & ShelfLife AI
 
 <br/>
 
+=======
+>>>>>>> d83e91245627f662c67a645a442d78e49b680064
 <!-- ===================== STATS ===================== -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=6,11,20&height=60&section=header&text=GitHub%20Analytics&fontSize=26&fontColor=ffffff" width="60%" />
@@ -190,4 +193,8 @@ currently:  Building Neth-Sawan & ShelfLife AI
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
 
+<<<<<<< HEAD
 </div>
+=======
+</div>
+>>>>>>> d83e91245627f662c67a645a442d78e49b680064
