@@ -1,217 +1,146 @@
 <div align="center">
-  <h1>Hi 👋, I'm Deshan Siriwardhana</h1>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=.NET+Developer;Full+Stack+Developer;AI+Enthusiast;Software+Engineering+Student" alt="Typing SVG" />
-  
-  <br/>
-  
-  <a href="mailto:deshandhakshitha16@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/deshan-siriwardhana-591763277/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://deshansiriwardhana.me/">
-    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" />
-  </a>
-  <a href="./CV.pdf">
-    <img src="https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" />
-  </a>
+
+# Deshan Siriwardhana
+
+### Full Stack Developer · .NET · AI Enthusiast · Software QA
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2196F3&center=true&vCenter=true&width=520&lines=.NET+%26+Full+Stack+Developer;Real-time+AI+%26+Accessibility+Projects;Software+Engineering+Student+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing SVG" />
+
+<br/>
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:deshandhakshitha16@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deshan-siriwardhana-591763277/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1f2937?style=flat-square&logo=firefoxbrowser&logoColor=FF7139)](https://deshansiriwardhana.me/)
+[![CV](https://img.shields.io/badge/Download_CV-2196F3?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/deshan2004/deshan2004/blob/main/CV.pdf)
+
 </div>
 
 <br/>
 
----
+## 👨‍💻 About Me
 
-### 🚀 What I Bring to the Table
+I'm a Software Engineering student who enjoys building practical, well-tested web applications, from secure multi-role systems to real-time AI tools that help people.
 
-- 🎓 **Education:** BSc (Hons) in Software Engineering (UGC Approved)
-- 💡 **Core Focus:** Web Architecture, Real-time AI Processing, and Software QA
-- 🛠️ **Daily Practices:** Manual/Automated testing, Requirements Traceability Matrices (RTM), and secure authentication flows
-- 📍 **Based in:** Sri Lanka 🇱🇰
+| | |
+|---|---|
+| 🎓 **Education** | BSc (Hons) in Software Engineering (UGC Approved) |
+| 🎯 **Focus** | Web Architecture · Real-time AI Processing · Software QA |
+| 🧪 **Practices** | Manual & automated testing · Requirements Traceability Matrices (RTM) · Secure authentication flows |
+| 📍 **Location** | Sri Lanka 🇱🇰 |
 
----
+<br/>
 
-### 💼 Featured Projects
+## 🚀 Featured Projects
 
-#### 🏗️ In Development (Active Research)
-<table width="100%">
+### 🛠️ In Development
+
+<table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🔮 Guessing Game Arena</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Deployment-In_Going-brightgreen?style=flat-square&logo=github" alt="In Going Status">
-      </p>
-      <p align="center">Elite matrix gaming environment featuring multi-layered cryptographic deduction, algorithmic lexicon matching, and score tracking with <b>MongoDB Atlas</b> backend pipelines.</p>
-      <p align="center">
-        <a href="https://ultimate-guessing-game-python-ufca4jfzddoh3ovzjwg9dm.streamlit.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Play_Now-success?style=for-the-badge&logo=streamlit&logoColor=white" />
-        </a>
-      </p>
+      <h4>🔮 Guessing Game Arena</h4>
+      <img src="https://img.shields.io/badge/Status-In_Progress-brightgreen?style=flat-square" /><br/><br/>
+      Matrix-style game with layered cryptographic deduction, lexicon matching and score tracking on a <b>MongoDB Atlas</b> backend.<br/><br/>
+      <sub><code>Python</code> · <code>Streamlit</code> · <code>MongoDB</code></sub><br/><br/>
+      <a href="https://ultimate-guessing-game-python-ufca4jfzddoh3ovzjwg9dm.streamlit.app/">▶ Play Now</a>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">👁️ Neth-Sawan (AI Assistant)</h3>
-      <p align="center"><b>Status:</b> Refining AI Models</p>
-      <p align="center">Real-time accessibility platform using object recognition and speech processing for sensory assistance.</p>
-      <p align="center">
-        <a href="https://neth-sawan.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-2196F3?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-      </p>
+      <h4>👁️ Neth-Sawan (AI Assistant)</h4>
+      <img src="https://img.shields.io/badge/Status-Refining_Models-orange?style=flat-square" /><br/><br/>
+      Real-time accessibility platform using object recognition and speech processing for sensory assistance.<br/><br/>
+      <sub><code>TensorFlow.js</code> · <code>Web Speech API</code></sub><br/><br/>
+      <a href="https://neth-sawan.vercel.app/">🔗 Live Demo</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🍎 ShelfLife AI</h3>
-      <p align="center"><b>Status:</b> Developing Alert Logic</p>
-      <p align="center">Smart inventory tracking system using <b>React.js</b> & <b>Firebase</b> to monitor expiry dates with automated alerts.</p>
-      <p align="center">
-       <a href="https://shelf-life-ai-46q7.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-2196F3?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-      </p>
+      <h4>🍎 ShelfLife AI</h4>
+      <img src="https://img.shields.io/badge/Status-Building_Alert_Logic-orange?style=flat-square" /><br/><br/>
+      Smart inventory tracker that monitors expiry dates and sends automated alerts.<br/><br/>
+      <sub><code>React.js</code> · <code>Firebase</code></sub><br/><br/>
+      <a href="https://shelf-life-ai-46q7.vercel.app/">🔗 Live Demo</a>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎬 CineMate (Movie DB)</h3>
-      <p align="center"><b>Status:</b> Feature Expansion</p>
-      <p align="center">Dynamic movie app with JS array manipulation and advanced DOM rendering.</p>
-      <p align="center">
-        <a href="https://deshan2004.github.io/CineMate/" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-2196F3?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-      </p>
+      <h4>🎬 CineMate</h4>
+      <img src="https://img.shields.io/badge/Status-Feature_Expansion-orange?style=flat-square" /><br/><br/>
+      Dynamic movie database app with JavaScript array manipulation and advanced DOM rendering.<br/><br/>
+      <sub><code>JavaScript</code> · <code>HTML/CSS</code></sub><br/><br/>
+      <a href="https://deshan2004.github.io/CineMate/">🔗 Live Demo</a>
     </td>
   </tr>
 </table>
 
-#### ✅ Completed Projects
-<table width="100%">
+### ✅ Completed
+
+<table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📚 EduConnect (LMS)</h3>
-      <p align="center"><b>Status:</b> Completed</p>
-      <p align="center">Multi-panel LMS with highly secure role-based auth (Admin, Staff, User). Built with PHP & MySQL.</p>
-      <p align="center">
-        <a href="https://edu-connect-rust-eta.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-2196F3?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-      </p>
+      <h4>📚 EduConnect (LMS)</h4>
+      Multi-panel learning management system with secure role-based authentication (Admin, Staff, User).<br/><br/>
+      <sub><code>PHP</code> · <code>MySQL</code></sub><br/><br/>
+      <a href="https://edu-connect-rust-eta.vercel.app/">🔗 Live Demo</a>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🐾 TailWatch (Animal Care)</h3>
-      <p align="center"><b>Status:</b> Completed</p>
-      <p align="center">Animal management & rabies prevention platform with dedicated tracking modules.</p>
-      <p align="center">
-        <a href="https://deshan2004.github.io/TailWatch/" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-2196F3?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-      </p>
+      <h4>🐾 TailWatch</h4>
+      Animal management and rabies prevention platform with dedicated tracking modules.<br/><br/>
+      <sub><code>HTML</code> · <code>CSS</code> · <code>JavaScript</code></sub><br/><br/>
+      <a href="https://deshan2004.github.io/TailWatch/">🔗 Live Demo</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📊 EPMS (Enterprise)</h3>
-      <p align="center"><b>Status:</b> Production Ready</p>
-      <p align="center">Project workflow tool with real-time logging & rigorous manual/automated testing environments.</p>
-      <p align="center">
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Code-Repo-333?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
+      <h4>📊 EPMS (Enterprise)</h4>
+      Project workflow tool with real-time logging and rigorous manual and automated testing.<br/><br/>
+      <sub><code>Production Ready</code></sub><br/><br/>
+      <a href="https://github.com/deshan2004">📂 Source Code</a>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎮 Sky Drifter</h3>
-      <p align="center"><b>Status:</b> Completed</p>
-      <p align="center">Interactive web-based game featuring physics-based movement and dynamic obstacle generation.</p>
-      <p align="center">
-        <a href="https://deshan2004.github.io/Sky-Drifter/" target="_blank">
-          <img src="https://img.shields.io/badge/Play_Now-success?style=for-the-badge&logo=googleplay&logoColor=white" />
-        </a>
-      </p>
+      <h4>🎮 Sky Drifter</h4>
+      Interactive web game with physics-based movement and dynamic obstacle generation.<br/><br/>
+      <sub><code>JavaScript</code> · <code>Canvas</code></sub><br/><br/>
+      <a href="https://deshan2004.github.io/Sky-Drifter/">▶ Play Now</a>
     </td>
   </tr>
 </table>
 
----
+<br/>
 
-### 💻 Tech Stack
+## 🧰 Tech Stack
 
-#### 🎨 Frontend Development
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,vite,tailwind,bootstrap" />
 
-#### ⚙️ Backend Development
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-</p>
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,express,py,django,php,laravel,java,spring" />
 
-#### 🗄️ Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
+**Databases**<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,oracle" />
 
-#### 🤖 AI & Machine Learning
-<p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web_Speech_API-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</p>
+**AI / ML**<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow" /> &nbsp; <img src="https://img.shields.io/badge/Web_Speech_API-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
 
-#### 🧪 QA & Testing Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Software_QA-4B32C3?style=for-the-badge&logo=testinglibrary&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQA_Testing-6C5CE7?style=for-the-badge&logo=testcafe&logoColor=white" />
-  <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" />
-</p>
+**QA & Testing**<br/>
+<img src="https://img.shields.io/badge/Manual_Testing-4B32C3?style=for-the-badge" /> <img src="https://img.shields.io/badge/Automation_Testing-6C5CE7?style=for-the-badge" /> <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" /> <img src="https://img.shields.io/badge/RTM-333?style=for-the-badge" />
 
-#### 🛠️ Development Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
+**Tools**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,androidstudio,postman,figma" />
 
----
+<br/>
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=deshan2004&theme=transparent&hide_border=true&title_color=2196F3&text_color=777777&icon_color=2196F3&ring=2196F3&fire=2196F3&currStreakLabel=2196F3" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deshan2004&layout=compact&theme=transparent&hide_border=true&title_color=2196F3&text_color=777777" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=deshan2004&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=777777" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deshan2004&layout=compact&theme=transparent&hide_border=true&title_color=2196F3&text_color=777777" />
+
+<img src="https://streak-stats.demolab.com/?user=deshan2004&theme=transparent&hide_border=true&stroke=2196F3&ring=2196F3&fire=2196F3&currStreakLabel=2196F3&sideLabels=777777&currStreakNum=777777&sideNums=777777&dates=777777" />
+
 </div>
 
----
+<br/>
 
-### 📈 Weekly Development Breakdown
+<div align="center">
 
-```text
-TypeScript    4 hrs 20 mins  ████████████░░░░░░░░░░░░░   45.2%
-JavaScript    2 hrs 45 mins  ████████░░░░░░░░░░░░░░░░░   28.6%
-HTML/CSS      1 hr  55 mins  ██████░░░░░░░░░░░░░░░░░░░   20.0%
-Python        0 hr  35 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   6.2%
+**Open to internships, collaborations and interesting projects. Let's build something great together.** 🚀
+
+</div>
