@@ -150,7 +150,7 @@ location:   Sri Lanka 🇱🇰
       <h3>🌾 Keth Piyasa</h3>
       <sub>Smart Agriculture & Resort Management Platform</sub>
       <br/><br/>
-      <img src="https://img.shields.io/badge/Stack-PHP%20%7C%20MySQL%20%7C%20Full%20Stack-4CAF50?style=flat-square" />
+      <img src="https://img.shields.io/badge/Stack-Next.js%20%7C%20TypeScript%20%7C%20Tailwind-FF4B4B?style=flat-square" />
       <br/><br/>
       <a href="https://keth-piyasa.vercel.app/">
         <img src="https://img.shields.io/badge/▶_Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
