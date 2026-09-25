@@ -7,7 +7,7 @@
 
 <br/><br/>
 
-<a href="https://codecraft-solutions.vercel.app/"><img src="https://img.shields.io/badge/Startup-CodeCraft_Solutions-00D4FF?style=for-the-badge&logo=rocket&logoColor=white" /></a>
+<a href="https://code-craft-solutions-six.vercel.app/"><img src="https://img.shields.io/badge/🚀_Startup-CodeCraft_Solutions-00D4FF?style=for-the-badge&logo=rocket&logoColor=white" /></a>
 <a href="mailto:deshandhakshitha16@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/deshan-siriwardhana-591763277/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://deshansiriwardhana.me/"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=firefoxbrowser&logoColor=FF7139" /></a>
@@ -70,8 +70,8 @@ location:   Sri Lanka 🇱🇰
       <img src="https://img.shields.io/badge/Venture-Tech_Startup-00D4FF?style=flat-square" />
       <img src="https://img.shields.io/badge/Services-Full%20Stack%20%7C%20AI%20%7C%20Cloud-7C3AED?style=flat-square" />
       <br/><br/>
-      <a href="https://codecraft-solutions.vercel.app/">
-        <img src="https://img.shields.io/badge/▶_Visit_Startup_Website-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
+      <a href="https://code-craft-solutions-six.vercel.app/">
+        <img src="https://img.shields.io/badge/▶_Visit_CodeCraft_Solutions-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
       </a>
       <br/><br/>
     </td>
@@ -232,17 +232,13 @@ location:   Sri Lanka 🇱🇰
 
 <br/>
 
-<!-- ===================== SNAKE ZONE ===================== -->
+<!-- ===================== CONTRIBUTION GRAPH ===================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=6,11,20&height=60&section=header&text=Snake%20Zone%20%F0%9F%90%8D&fontSize=26&fontColor=ffffff" width="60%" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=6,11,20&height=60&section=header&text=Contribution%20Matrix%20%F0%9F%93%88&fontSize=26&fontColor=ffffff" width="60%" />
 
   <br/><br/>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deshan2004/deshan2004/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deshan2004/deshan2004/output/github-snake.svg" />
-    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/deshan2004/deshan2004/output/github-snake-dark.svg" width="100%" />
-  </picture>
+  <img src="https://ghchart.rshah.org/00D4FF/deshan2004" alt="Deshan's GitHub Contributions" width="100%" />
 </div>
 
 <br/>
@@ -253,16 +249,7 @@ location:   Sri Lanka 🇱🇰
 
   <br/><br/>
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=deshan2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF" />
   <img height="180" src="https://streak-stats.demolab.com/?user=deshan2004&theme=tokyonight&hide_border=true&background=0d1117&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF" />
-
-  <br/><br/>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=deshan2004&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deshan2004&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=00D4FF&line=7C3AED&point=ffffff" width="100%" />
 </div>
 
 <br/>
