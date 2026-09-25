@@ -3,10 +3,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Deshan%20Siriwardhana&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=.NET%20Developer%20%7C%20Full%20Stack%20%7C%20AI%20Enthusiast" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Building+real-time+AI+experiences+%F0%9F%A4%96;Crafting+secure+full+stack+web+apps+%F0%9F%9B%A1%EF%B8%8F;Creator+of+Kingswood+Connect+%26+Riga+Dance+Academy+%F0%9F%9A%80;Software+Engineering+Student+from+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Building+real-time+AI+experiences+%F0%9F%A4%96;Co-Founder+%40+CodeCraft+Solutions+%F0%9F%9A%80;Crafting+secure+full+stack+web+apps+%F0%9F%9B%A1%EF%B8%8F;Software+Engineering+Student+from+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing SVG" />
 
 <br/><br/>
 
+<a href="https://codecraft-solutions.vercel.app/"><img src="https://img.shields.io/badge/Startup-CodeCraft_Solutions-00D4FF?style=for-the-badge&logo=rocket&logoColor=white" /></a>
 <a href="mailto:deshandhakshitha16@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/deshan-siriwardhana-591763277/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://deshansiriwardhana.me/"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=firefoxbrowser&logoColor=FF7139" /></a>
@@ -33,9 +34,10 @@
 ```yaml
 name:       Deshan Siriwardhana
 role:       Full Stack Developer (.NET / MERN / PHP)
+startup:    Co-Founder @ CodeCraft Solutions 🚀
 education:  BSc (Hons) Software Engineering (UGC Approved)
 focus:      [Web Architecture, Real-time AI, Software SQA]
-highlights: [Kingswood Connect, Riga Dance Academy, Neth-Sawan, ShelfLife AI]
+highlights: [CodeCraft Solutions, Kingswood Connect, Riga Dance Academy, Neth-Sawan]
 practices:  [Manual & Automated Testing, RTM, Secure Auth]
 location:   Sri Lanka 🇱🇰
 ```
@@ -47,6 +49,33 @@ location:   Sri Lanka 🇱🇰
 
 </td>
 </tr>
+</table>
+
+<br/>
+
+<!-- ===================== STARTUP SPOTLIGHT ===================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=6,11,20&height=60&section=header&text=🚀%20My%20Startup&fontSize=26&fontColor=ffffff" width="60%" />
+</div>
+
+<br/>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" valign="top">
+      <br/>
+      <h2>⚡ CodeCraft Solutions</h2>
+      <sub>Software Engineering & Next-Gen Digital Solutions Agency</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Venture-Tech_Startup-00D4FF?style=flat-square" />
+      <img src="https://img.shields.io/badge/Services-Full%20Stack%20%7C%20AI%20%7C%20Cloud-7C3AED?style=flat-square" />
+      <br/><br/>
+      <a href="https://codecraft-solutions.vercel.app/">
+        <img src="https://img.shields.io/badge/▶_Visit_Startup_Website-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a>
+      <br/><br/>
+    </td>
+  </tr>
 </table>
 
 <br/>
