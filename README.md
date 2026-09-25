@@ -63,30 +63,26 @@ location:   Sri Lanka 🇱🇰
     <!-- Kingswood Connect -->
     <td width="50%" align="center" valign="top">
       <br/>
-      <a href="https://github.com/deshan2004/Kingswood-Connect">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=deshan2004&repo=Kingswood-Connect&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF" width="95%" />
-      </a>
-      <br/><br/>
-      <b>🏫 Kingswood Connect</b><br/>
+      <h3>🏫 Kingswood Connect</h3>
       <sub>Alumni & Student Network Platform</sub>
       <br/><br/>
+      <img src="https://img.shields.io/badge/Stack-React%20%7C%20Node.js%20%7C%20MongoDB-00D4FF?style=flat-square" />
+      <br/><br/>
       <a href="https://github.com/deshan2004/Kingswood-Connect">
-        <img src="https://img.shields.io/badge/View_Project-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/▶_Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
       </a>
       <br/><br/>
     </td>
     <!-- Riga Dance Academy -->
     <td width="50%" align="center" valign="top">
       <br/>
-      <a href="https://github.com/deshan2004/Riga-Dance-Academy">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=deshan2004&repo=Riga-Dance-Academy&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF" width="95%" />
-      </a>
-      <br/><br/>
-      <b>💃 Riga Dance Academy</b><br/>
+      <h3>💃 Riga Dance Academy</h3>
       <sub>Class Management & Booking System</sub>
       <br/><br/>
-      <a href="https://github.com/deshan2004/Riga-Dance-Academy">
-        <img src="https://img.shields.io/badge/View_Project-FF4B4B?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/Stack-Next.js%20%7C%20TypeScript%20%7C%20Tailwind-FF4B4B?style=flat-square" />
+      <br/><br/>
+      <a href="https://github.com/deshan2004/RIGA-Dance-Academy">
+        <img src="https://img.shields.io/badge/▶_Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
       </a>
       <br/><br/>
     </td>
@@ -95,30 +91,26 @@ location:   Sri Lanka 🇱🇰
     <!-- Neth-Sawan -->
     <td width="50%" align="center" valign="top">
       <br/>
-      <a href="https://github.com/deshan2004/Neth-Sawan">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=deshan2004&repo=Neth-Sawan&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF" width="95%" />
-      </a>
+      <h3>👁️ Neth-Sawan</h3>
+      <sub>Real-time Object Recognition & Speech Assistant</sub>
       <br/><br/>
-      <b>👁️ Neth-Sawan</b><br/>
-      <sub>Real-time object recognition & speech assistant</sub>
+      <img src="https://img.shields.io/badge/Stack-TensorFlow%20%7C%20WebSpeech%20%7C%20React-7C3AED?style=flat-square" />
       <br/><br/>
       <a href="https://neth-sawan.vercel.app/">
-        <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+        <img src="https://img.shields.io/badge/▶_Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
       </a>
       <br/><br/>
     </td>
     <!-- ShelfLife-AI -->
     <td width="50%" align="center" valign="top">
       <br/>
-      <a href="https://github.com/deshan2004/ShelfLife-AI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=deshan2004&repo=ShelfLife-AI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF" width="95%" />
-      </a>
+      <h3>🍎 ShelfLife-AI</h3>
+      <sub>Smart Expiry Tracking & Loss Prevention</sub>
       <br/><br/>
-      <b>🍎 ShelfLife-AI</b><br/>
-      <sub>Smart expiry tracking & loss prevention</sub>
+      <img src="https://img.shields.io/badge/Stack-React%20%7C%20Firebase%20%7C%20Tailwind-FF9800?style=flat-square" />
       <br/><br/>
       <a href="https://shelf-life-ai-46q7.vercel.app/">
-        <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+        <img src="https://img.shields.io/badge/▶_Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
       </a>
       <br/><br/>
     </td>
@@ -127,30 +119,26 @@ location:   Sri Lanka 🇱🇰
     <!-- EduConnect -->
     <td width="50%" align="center" valign="top">
       <br/>
-      <a href="https://github.com/deshan2004/EduConnect">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=deshan2004&repo=EduConnect&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF" width="95%" />
-      </a>
+      <h3>📚 EduConnect</h3>
+      <sub>Multi-panel LMS with Role-based Auth</sub>
       <br/><br/>
-      <b>📚 EduConnect</b><br/>
-      <sub>Multi-panel LMS · Role-based Auth</sub>
+      <img src="https://img.shields.io/badge/Stack-PHP%20%7C%20MySQL%20%7C%20Bootstrap-2196F3?style=flat-square" />
       <br/><br/>
       <a href="https://edu-connect-rust-eta.vercel.app/">
-        <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+        <img src="https://img.shields.io/badge/▶_Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
       </a>
       <br/><br/>
     </td>
     <!-- TailWatch -->
     <td width="50%" align="center" valign="top">
       <br/>
-      <a href="https://github.com/deshan2004/TailWatch">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=deshan2004&repo=TailWatch&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF" width="95%" />
-      </a>
+      <h3>🐾 TailWatch</h3>
+      <sub>Animal Care & Rabies Prevention Platform</sub>
       <br/><br/>
-      <b>🐾 TailWatch</b><br/>
-      <sub>Animal care & rabies prevention platform</sub>
+      <img src="https://img.shields.io/badge/Stack-JavaScript%20%7C%20HTML5%20%7C%20CSS3-9C27B0?style=flat-square" />
       <br/><br/>
       <a href="https://deshan2004.github.io/TailWatch/">
-        <img src="https://img.shields.io/badge/Live_Demo-2196F3?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/▶_Live_Demo-00C853?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       <br/><br/>
     </td>
@@ -159,15 +147,13 @@ location:   Sri Lanka 🇱🇰
     <!-- Keth Piyasa -->
     <td colspan="2" align="center" valign="top">
       <br/>
-      <a href="https://github.com/deshan2004/Keth-Piyasa">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=deshan2004&repo=Keth-Piyasa&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF" width="48%" />
-      </a>
-      <br/><br/>
-      <b>🌾 Keth Piyasa</b><br/>
+      <h3>🌾 Keth Piyasa</h3>
       <sub>Smart Agriculture & Resort Management Platform</sub>
       <br/><br/>
+      <img src="https://img.shields.io/badge/Stack-PHP%20%7C%20MySQL%20%7C%20Full%20Stack-4CAF50?style=flat-square" />
+      <br/><br/>
       <a href="https://github.com/deshan2004/Keth-Piyasa">
-        <img src="https://img.shields.io/badge/View_Project-00C853?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/▶_Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
       </a>
       <br/><br/>
     </td>
@@ -228,11 +214,6 @@ location:   Sri Lanka 🇱🇰
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deshan2004/deshan2004/output/github-snake.svg" />
     <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/deshan2004/deshan2004/output/github-snake-dark.svg" width="100%" />
   </picture>
-
-  <br/><br/>
-
-  **🎮 Bored? Beat my high score!**<br/><br/>
-  <a href="https://deshan2004.github.io/snake-game/"><img src="https://img.shields.io/badge/🐍_PLAY_SNAKE-00D4FF?style=for-the-badge&logoColor=white&labelColor=7C3AED" /></a>
 </div>
 
 <br/>
