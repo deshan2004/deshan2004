@@ -21,8 +21,8 @@ jobs:
         with:
           github_user_name: deshan2004
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=#00D4FF&color_dots=#ebedf0,#90e0ef,#00b4d8,#0077b6,#03045e
+            dist/github-snake-dark.svg?color_snake=#00D4FF&color_dots=#161b22,#03045e,#0077b6,#00b4d8,#00d4ff
 
       - name: Push Snake SVG to output branch
         uses: crazy-max/ghaction-github-pages@v4
