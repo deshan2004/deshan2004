@@ -54,77 +54,100 @@ currently:  Building Neth-Sawan & ShelfLife AI
 <!-- ===================== PROJECTS ===================== -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=6,11,20&height=60&section=header&text=Featured%20Projects&fontSize=26&fontColor=ffffff" width="60%" />
-
-### 🛠️ In Development
+<sub>💻 Web builds — React, JavaScript & PHP</sub>
 </div>
 
-<table align="center" width="100%">
-<tr>
-<td width="50%" align="center">
-<a href="https://github.com/deshan2004/Ultimate-Guessing-Game-Python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deshan2004&repo=Ultimate-Guessing-Game-Python&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF" /></a><br/>
-<sub>🔮 Cryptographic deduction game · MongoDB Atlas</sub><br/>
-<a href="https://ultimate-guessing-game-python-ufca4jfzddoh3ovzjwg9dm.streamlit.app/"><img src="https://img.shields.io/badge/▶_Play_Now-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
-</td>
-<td width="50%" align="center">
-<a href="https://github.com/deshan2004/Neth-Sawan"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deshan2004&repo=Neth-Sawan&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF" /></a><br/>
-<sub>👁️ Real-time object recognition & speech assistant</sub><br/>
-<a href="https://neth-sawan.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-<a href="https://github.com/deshan2004/ShelfLife-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deshan2004&repo=ShelfLife-AI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF" /></a><br/>
-<sub>🍎 Smart expiry tracking · React + Firebase</sub><br/>
-<a href="https://shelf-life-ai-46q7.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</td>
-<td width="50%" align="center">
-<a href="https://github.com/deshan2004/CineMate"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deshan2004&repo=CineMate&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF" /></a><br/>
-<sub>🎬 Dynamic movie database · DOM rendering</sub><br/>
-<a href="https://deshan2004.github.io/CineMate/"><img src="https://img.shields.io/badge/Live_Demo-2196F3?style=for-the-badge&logo=github&logoColor=white" /></a>
-</td>
-</tr>
-</table>
+<br/>
 
+<table align="center" width="100%">
+
+<tr>
+<td width="50%" valign="top">
 <div align="center">
 
-### ✅ Completed
+<a href="https://github.com/deshan2004/Neth-Sawan"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deshan2004&repo=Neth-Sawan&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF" width="100%"/></a>
+
+👁️ **AI accessibility platform** for the hearing-impaired — real-time speech-to-sign translation, object recognition & sound visualization.
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=googlegemini&logoColor=white"/>
+
+<a href="https://neth-sawan.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </div>
+</td>
+<td width="50%" valign="top">
+<div align="center">
 
-<table align="center" width="100%">
-<tr>
-<td width="50%" align="center">
-<a href="https://github.com/deshan2004/EduConnect"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deshan2004&repo=EduConnect&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF" /></a><br/>
-<sub>📚 Multi-panel LMS · Role-based auth · PHP + MySQL</sub><br/>
-<a href="https://edu-connect-rust-eta.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</td>
-<td width="50%" align="center">
-<a href="https://github.com/deshan2004/TailWatch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deshan2004&repo=TailWatch&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF" /></a><br/>
-<sub>🐾 Animal care & rabies prevention platform</sub><br/>
-<a href="https://deshan2004.github.io/TailWatch/"><img src="https://img.shields.io/badge/Live_Demo-2196F3?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/deshan2004/ShelfLife-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deshan2004&repo=ShelfLife-AI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF" width="100%"/></a>
+
+🍎 **AI-powered retail inventory system** using OCR to track expiry dates and cut stock losses for small retailers.
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/OCR-6C5CE7?style=flat-square"/>
+
+<a href="https://shelf-life-ai-46q7.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+</div>
 </td>
 </tr>
+
 <tr>
-<td width="50%" align="center">
-<a href="https://github.com/deshan2004/EPMS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deshan2004&repo=EPMS&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF" /></a><br/>
-<sub>📊 Enterprise workflow tool · Real-time logging & QA</sub><br/>
-<a href="https://github.com/deshan2004/EPMS"><img src="https://img.shields.io/badge/Source_Code-333333?style=for-the-badge&logo=github&logoColor=white" /></a>
-</td>
-<td width="50%" align="center">
-<a href="https://github.com/deshan2004/Sky-Drifter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deshan2004&repo=Sky-Drifter&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF" /></a><br/>
-<sub>🎮 Physics-based web game · Dynamic obstacles</sub><br/>
+<td width="50%" valign="top">
+<div align="center">
+
+<a href="https://github.com/deshan2004/Sky-Drifter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deshan2004&repo=Sky-Drifter&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF" width="100%"/></a>
+
+🎮 **Celestial 2D platformer** built on Phaser 3 — arcade physics, glassmorphism HUD & local high-score tracking.
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Phaser_3-8B5CF6?style=flat-square"/> <img src="https://img.shields.io/badge/HTML5_Canvas-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+
 <a href="https://deshan2004.github.io/Sky-Drifter/"><img src="https://img.shields.io/badge/▶_Play_Now-00C853?style=for-the-badge&logo=googleplay&logoColor=white" /></a>
+
+</div>
+</td>
+<td width="50%" valign="top">
+<div align="center">
+
+<a href="https://github.com/deshan2004/CineMate"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deshan2004&repo=CineMate&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF" width="100%"/></a>
+
+🎬 **Movie & TV discovery app** with real-time data, a dark-themed UI, and a personalized favorites system.
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+
+<a href="https://deshan2004.github.io/CineMate/"><img src="https://img.shields.io/badge/Live_Demo-2196F3?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</div>
 </td>
 </tr>
+
 <tr>
-<td width="50%" align="center">
-<a href="https://github.com/deshan2004/ChatBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deshan2004&repo=ChatBot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF" /></a><br/>
-<sub>🤖 LearnBot · Desktop learning platform · Python + Tkinter</sub><br/>
-<a href="https://github.com/deshan2004/ChatBot"><img src="https://img.shields.io/badge/Source_Code-333333?style=for-the-badge&logo=github&logoColor=white" /></a>
+<td width="50%" valign="top">
+<div align="center">
+
+<a href="https://github.com/deshan2004/TailWatch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deshan2004&repo=TailWatch&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF" width="100%"/></a>
+
+🐾 **Community-powered platform** for stray dog care & rabies prevention, with staff, admin & public dashboards.
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+
+<a href="https://deshan2004.github.io/TailWatch/"><img src="https://img.shields.io/badge/Live_Demo-2196F3?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</div>
 </td>
-<td width="50%" align="center">
+<td width="50%" valign="top">
+<div align="center">
+
+<a href="https://github.com/deshan2004/EduConnect"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deshan2004&repo=EduConnect&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF" width="100%"/></a>
+
+📚 **Multi-panel LMS** with role-based auth for students, teachers & admins.
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+
+<a href="https://edu-connect-rust-eta.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+</div>
 </td>
 </tr>
+
 </table>
 
 <br/>
