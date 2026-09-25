@@ -116,6 +116,15 @@ currently:  Building Neth-Sawan & ShelfLife AI
 <a href="https://deshan2004.github.io/Sky-Drifter/"><img src="https://img.shields.io/badge/▶_Play_Now-00C853?style=for-the-badge&logo=googleplay&logoColor=white" /></a>
 </td>
 </tr>
+<tr>
+<td width="50%" align="center">
+<a href="https://github.com/deshan2004/ChatBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deshan2004&repo=ChatBot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF" /></a><br/>
+<sub>🤖 LearnBot · Desktop learning platform · Python + Tkinter</sub><br/>
+<a href="https://github.com/deshan2004/ChatBot"><img src="https://img.shields.io/badge/Source_Code-333333?style=for-the-badge&logo=github&logoColor=white" /></a>
+</td>
+<td width="50%" align="center">
+</td>
+</tr>
 </table>
 
 <br/>
@@ -149,7 +158,6 @@ currently:  Building Neth-Sawan & ShelfLife AI
 
 <br/>
 
-<<<<<<< HEAD
 <!-- ===================== SNAKE ===================== -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=6,11,20&height=60&section=header&text=Snake%20Zone%20%F0%9F%90%8D&fontSize=26&fontColor=ffffff" width="60%" />
@@ -168,8 +176,6 @@ currently:  Building Neth-Sawan & ShelfLife AI
 
 <br/>
 
-=======
->>>>>>> d83e91245627f662c67a645a442d78e49b680064
 <!-- ===================== STATS ===================== -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=6,11,20&height=60&section=header&text=GitHub%20Analytics&fontSize=26&fontColor=ffffff" width="60%" />
@@ -193,8 +199,4 @@ currently:  Building Neth-Sawan & ShelfLife AI
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
 
-<<<<<<< HEAD
 </div>
-=======
-</div>
->>>>>>> d83e91245627f662c67a645a442d78e49b680064
