@@ -232,16 +232,16 @@ location:   Sri Lanka 🇱🇰
 
 <br/>
 
-<!-- ===================== SNAKE ANIMATION ===================== -->
+<!-- ===================== CONTRIBUTION MATRIX ===================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=6,11,20&height=60&section=header&text=Snake%20Eating%20Contributions%20%F0%9F%90%8D&fontSize=26&fontColor=ffffff" width="60%" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=6,11,20&height=60&section=header&text=Contribution%20Matrix%20%F0%9F%93%88&fontSize=26&fontColor=ffffff" width="60%" />
 
   <br/><br/>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deshan2004/deshan2004/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deshan2004/deshan2004/output/github-snake.svg" />
-    <img alt="Snake Eating Contributions Animation" src="https://raw.githubusercontent.com/deshan2004/deshan2004/output/github-snake-dark.svg" width="100%" />
+    <img alt="Snake Eating Contributions Animation" src="https://ghchart.rshah.org/00D4FF/deshan2004" width="100%" />
   </picture>
 </div>
 
