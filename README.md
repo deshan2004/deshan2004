@@ -68,7 +68,7 @@ location:   Sri Lanka 🇱🇰
       <br/><br/>
       <img src="https://img.shields.io/badge/Stack-React%20%7C%20Node.js%20%7C%20MongoDB-00D4FF?style=flat-square" />
       <br/><br/>
-      <a href="https://github.com/deshan2004/Kingswood-Connect">
+      <a href="https://kingswood-connect.vercel.app/">
         <img src="https://img.shields.io/badge/▶_Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
       </a>
       <br/><br/>
@@ -81,7 +81,7 @@ location:   Sri Lanka 🇱🇰
       <br/><br/>
       <img src="https://img.shields.io/badge/Stack-Next.js%20%7C%20TypeScript%20%7C%20Tailwind-FF4B4B?style=flat-square" />
       <br/><br/>
-      <a href="https://github.com/deshan2004/RIGA-Dance-Academy">
+      <a href="https://riga-dance-academy-rust.vercel.app/">
         <img src="https://img.shields.io/badge/▶_Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
       </a>
       <br/><br/>
@@ -109,7 +109,7 @@ location:   Sri Lanka 🇱🇰
       <br/><br/>
       <img src="https://img.shields.io/badge/Stack-React%20%7C%20Firebase%20%7C%20Tailwind-FF9800?style=flat-square" />
       <br/><br/>
-      <a href="https://shelf-life-ai-46q7.vercel.app/">
+      <a href="https://shelf-life-ai.vercel.app/">
         <img src="https://img.shields.io/badge/▶_Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
       </a>
       <br/><br/>
@@ -152,7 +152,7 @@ location:   Sri Lanka 🇱🇰
       <br/><br/>
       <img src="https://img.shields.io/badge/Stack-PHP%20%7C%20MySQL%20%7C%20Full%20Stack-4CAF50?style=flat-square" />
       <br/><br/>
-      <a href="https://github.com/deshan2004/Keth-Piyasa">
+      <a href="https://keth-piyasa.vercel.app/">
         <img src="https://img.shields.io/badge/▶_Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
       </a>
       <br/><br/>
