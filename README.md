@@ -38,7 +38,7 @@ focus:      [Web Architecture, Real-time AI, Software SQA]
 highlights: [Kingswood Connect, Riga Dance Academy, Neth-Sawan, ShelfLife AI]
 practices:  [Manual & Automated Testing, RTM, Secure Auth]
 location:   Sri Lanka 🇱🇰
-```
+currently:  Building Neth-Sawan & ShelfLife AI
 
 </td>
 <td width="40%" align="center" valign="middle">
